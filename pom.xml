@@ -25,11 +25,11 @@
     <distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<url>http://13.200.250.251:8081/repository/selva-release/</url>
+			<url>http://13.233.90.197:8081/repository/selva-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://13.200.250.251:8081/repository/selva-snapshot/</url>
+			<url>http://13.233.90.197:8081/repository/selva-snapshot/</url>
 		</snapshotRepository>
     </distributionManagement>
 
